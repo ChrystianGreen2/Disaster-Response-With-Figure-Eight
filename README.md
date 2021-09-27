@@ -1,8 +1,8 @@
 # Disaster Response Pipeline Project
 ### Overview
-In this project we used a dataset with disaster responses from Figure Eight, applying Data Engineering Techniques to Extract data from various sources, transform them in a single datasource and load in a Machine Learning Model.
+In this project we used a dataset with disaster responses from Figure Eight, applying Data Engineering techniques to extract data from various sources, transform them in a single datasource and load in a machine learning model.
 
-In this project we also applyied NLP techniques do clean data before input on models, after that we build a model pipeline with GridSearch to hyperparameter tuning and finnaly save the model to use in a web application.
+In this project we also applied NLP techniques do clean data before input on models, after that we build a model pipeline with GridSearch to tuning the hyperparameters and finaly save the model to use in a web application.
 
 
 Dependencies
