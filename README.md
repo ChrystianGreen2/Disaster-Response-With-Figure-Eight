@@ -26,3 +26,6 @@ Dependencies
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+### Acknowledgment
+Thanks to Udacity for the incredible project that allowed me to improve my data engineering techniques.
