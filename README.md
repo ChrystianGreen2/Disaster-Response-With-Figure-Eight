@@ -29,3 +29,4 @@ Dependencies
 
 ### Acknowledgment
 Thanks to Udacity for the incredible project that allowed me to improve my data engineering techniques.
+Thanks to Figure Eight for providing the database that was very helpful.
